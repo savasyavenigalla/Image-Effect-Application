@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="657d76c4-7f9e-4dd3-9c79-07477d17cbf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/BrightnessEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/Flipimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/GaussianBlurEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/HueSaturationEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/Invertimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/SepiaEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/SharpenEffect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/BrightnessLibrary/Brightness.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/BrightnessLibrary/Brightness.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/BrightnessLibrary/Brightness.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/BrightnessLibrary/Brightness.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/BrightnessLibrary/BrightnessInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/BrightnessLibrary/BrightnessInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/ContrastLibrary/Contrast.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/ContrastLibrary/Contrast.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/ContrastLibrary/Contrast.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/ContrastLibrary/Contrast.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/ContrastLibrary/ContrastInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/ContrastLibrary/ContrastInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/FlipLibrary/Flip.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/FlipLibrary/Flip.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/FlipLibrary/Flip.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/FlipLibrary/Flip.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/FlipLibrary/FlipInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/FlipLibrary/FlipInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/GaussianBlurLibrary/GaussianBlur.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/GaussianBlurLibrary/GaussianBlur.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/GaussianBlurLibrary/GaussianBlur.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/GaussianBlurLibrary/GaussianBlur.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/GaussianBlurLibrary/GaussianBlurInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/GaussianBlurLibrary/GaussianBlurInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/GrayscaleLibrary/Grayscale.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/GrayscaleLibrary/Grayscale.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/GrayscaleLibrary/Grayscale.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/GrayscaleLibrary/Grayscale.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/GrayscaleLibrary/GrayscaleInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/GrayscaleLibrary/GrayscaleInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/HueSaturationLibrary/HueSaturation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/HueSaturationLibrary/HueSaturation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/HueSaturationLibrary/HueSaturationInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/HueSaturationLibrary/HueSaturationInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/InvertLibrary/Invert.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/InvertLibrary/Invert.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/InvertLibrary/Invert.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/InvertLibrary/Invert.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/InvertLibrary/InvertInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/InvertLibrary/InvertInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/RotationLibrary/Rotation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/RotationLibrary/Rotation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/RotationLibrary/Rotation.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/RotationLibrary/Rotation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/RotationLibrary/RotationInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/RotationLibrary/RotationInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/SepiaLibrary/Sepia.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/SepiaLibrary/Sepia.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/SepiaLibrary/Sepia.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/SepiaLibrary/Sepia.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/SepiaLibrary/SepiaInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/SepiaLibrary/SepiaInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/SharpenLibrary/Sharpen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/SharpenLibrary/Sharpen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/SharpenLibrary/Sharpen.h" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/SharpenLibrary/Sharpen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/SharpenLibrary/SharpenInterface.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/SharpenLibrary/SharpenInterface.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/service/LoggingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/service/LoggingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/service/PhotoEffectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/service/PhotoEffectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageEffectFrontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageEffectFrontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImageEffectFrontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageEffectFrontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2aFhp8wtJnPwoxM542Jn1znqkI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ImageEffectApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ragini/P2-2023-Project/ImageEffectBackend"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-8336523bb0d9-9b5c8e75" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="657d76c4-7f9e-4dd3-9c79-07477d17cbf3" name="Changes" comment="" />
+      <created>1703920415824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703920415824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iiitb/imageEffectApplication/effectImplementation/HueSaturationEffect.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
