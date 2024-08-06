@@ -1,0 +1,3 @@
+2024-01-02 19:01:06	blur3.jpeg	Hue-Saturation	Hue: 3.00, Saturation: 42.00
+2024-01-02 21:30:01	blur2.jpg	Contrast	141.00
+2024-01-02 21:44:48	blur.jpeg	Sepia	
