@@ -1,13 +1,3 @@
-## Team Name:
-	NullPointers
-
-## Team Members:
-	Varsha Yamsani IMT2022506
-	Ragini Metlapalli IMT2022029
-	Sowmya Venigalla IMT2022537
-	Saniya Kondkar IMT2022128
-	Chandrima Nandi IMT2022062
-
 ## About the project:
 The project is about making an image effect software which applies image effects such as - hue-saturation, contrast, brightness, flip, gaussian blur, grayscale, invert, rotation, sepia, sharpen.
 
@@ -103,19 +93,5 @@ Similarly apply the java implementation for Gaussian Blur, Contrast, Sharpen.
 5. **Additional Method**:
     - **`shutdownThreadPool()`**: Shuts down the thread pool when it's no longer needed.
 
-## Contributions:
-**ImageEffect (.cpp) code and effectImplementation (.java) code** : 
-Each of us wrote .cpp codes for two effects and also the corresponding implementation in java.
-	Varsha(IMT2022506): Contrast, Grayscale
-	Ragini(IMT2022029): Hue-Saturation, Sharpen
-	Sowmya(IMT2022537): Sepia, Rotation
-	Saniya(IMT2022128): Gaussian Blur, Brightness
-	Chandrima(IMT2022062): Invert, Flip
-
-**LoggingService**: 
-	Varsha(IMT2022506) and Ragini(IMT2022029) wrote the code for LoggingService.java
-
-**Adding all the files and debugging the entire project**: 
-	This was done by Sowmya(IMT2022537), Saniya(IMT2022128) and Chandrima(IMT2022062).
 
 			
